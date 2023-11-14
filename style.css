@@ -1,0 +1,28 @@
+body{
+    background-size: cover;
+    background-attachment: fixed;
+    /* background-image: url(../images/bg.jpeg); */
+    
+}
+
+.jum{
+    padding: 30px 30px;
+    padding-bottom: 220px;
+    width:90%;
+    margin: auto;
+    background-color: rgba(0,0,0,0,0.3);
+}
+
+.tableh1 th{
+    width: 30%;
+}
+
+.btn1{
+    margin-bottom: 20px;
+}
+
+.alert
+{
+    display: none;
+}
+
